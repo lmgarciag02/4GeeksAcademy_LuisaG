@@ -1,0 +1,86 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+  first_name: Luisa María
+  last_name: García González
+  motto: Economista dedicada al análisis y la investigación
+  focus: Desarrollo sostenible, política económica y análisis de datos
+  summary: |
+    Economista egresada de la Universidad Surcolombiana, destacada por participar en proyectos de investigación que abordan temas como la economía energética, el desarrollo sostenible y la política económica. Poseo habilidades avanzadas en el uso de software como Excel, Power Bi, Stata y Python, así como experiencia en modelado económico y técnicas econométricas. Mi objetivo es seguir contribuyendo con ideas innovadoras en entornos colaborativos y dinámicos.
+  avatar: "https://media-exp1.licdn.com/dms/image/C4D03AQFWMVa6qahy5Q/profile-displayphoto-shrink_800_800/0/1596661064076?e=1617840000&v=beta&t=QGteJrxLl5jsPF79co8hcdmaHF24LK0Bl-O7cRRhY7g"
+  email: lmgarciag02@gmail.com
+  phone: 3214032000
+  address: "Calle 64 1B 62, Neiva-Huila"
+  linkedin: "#"
+
+languages:
+  - idiom: Español
+    level: Nativo
+
+interests:
+  - item: Investigación económica
+  - item: Desarrollo sostenible
+  - item: Análisis de datos
+
+education:
+  - degree: Economía
+    university: Universidad Surcolombiana
+    time: 2024
+    details: Mérito académico.
+
+  - degree: Bachiller Académico
+    university: Colegio María Auxiliadora Altico-Neiva
+    time: 2019
+    details: Reconocimiento a la excelencia académica.
+
+non_formal_education:
+  - title: Curso Excel para Economistas
+    institution: Federación Nacional de Estudiantes de Economía (FENADECO)
+    time: 2023
+
+  - title: Curso Analítica de Negocios
+    institution: Universidad Surcolombiana
+    time: 2024
+
+  - title: Curso online de Power Bi
+    institution: Federación Nacional de Estudiantes de Economía (FENADECO)
+    time: 2023
+
+  - title: Diplomado en Metodología de la Investigación y Publicaciones Académicas
+    institution: Universidad Surcolombiana
+    time: 2022
+
+experiences:
+  - role: Aprendiz Universitario Profesional
+    company: Organización Roa Florhuila (ORF)
+    time: 2024
+    details: Apoyo en el análisis de datos en el área de cumplimiento.
+
+activities:
+  - title: Ponente en el XX Encuentro Departamental de Semilleros de Investigación
+    institution: Fundación Red Colombiana de Semilleros de Investigación (RedCOLSI Nodo Huila)
+    time: 2024
+
+  - title: Ponente en el 4º Simposio Internacional "Gestión del Conocimiento, Economía y Medio Ambiente para el Desarrollo Sostenible"
+    institution: Universidad Surcolombiana
+    time: 2024
+
+  - title: Ponente en el VI Encuentro Nacional de Semilleros de Investigación
+    institution: Universidad Surcolombiana, Universidad Piloto-Secc. AltoMagdalena, Corporación Universitaria CUN
+    time: 2023
+
+  - title: Ponente en el XXVI Encuentro Nacional y XX Encuentro Internacional de Semilleros de Investigación
+    institution: Fundación Red Colombiana de Semilleros de Investigación (RedCOLSI)
+    time: 2023
+
+  - title: Conferencista en IFC XXII
+    institution: International Finance Conference
+    time: 2022
+
+skills:
+  - name: Resolución de problemas
+  - name: Proactividad
+  - name: Adaptabilidad
+  - name: Trabajo en equipo
+  - name: Creatividad
